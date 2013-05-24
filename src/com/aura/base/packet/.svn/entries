@@ -1,0 +1,79 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/base/packet
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-06T12:27:06.975308Z
+4924
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+impl
+dir
+
+AbstractPacketObject.java
+file
+
+
+
+
+2013-03-21T10:43:57.102149Z
+ad304f9bfe68aff23e355b6232b3afeb
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+TypeKick.java
+file
+
+
+
+
+2013-03-21T10:43:57.117770Z
+b0eaa50de863807e8ab4e2d27067b752
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+PacketSimpleTask.java
+file
+
+
+
+
+2013-03-21T10:43:57.133392Z
+9cf8b419971a98b7eb161dd3d878bba6
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+AbstractPacket.java
+file
+
+
+
+
+2013-03-21T16:24:59.987077Z
+38b30778a00fc197a04d3d75072a8fcd
+2013-03-05T00:40:27.372725Z
+4897
+ktrn42
+

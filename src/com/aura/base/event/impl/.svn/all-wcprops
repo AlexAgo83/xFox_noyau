@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/kroidproject/!svn/ver/4927/xFox_noyau/src/com/aura/base/event/impl
+END
+KickEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/kroidproject/!svn/ver/4925/xFox_noyau/src/com/aura/base/event/impl/KickEvent.java
+END
+DefaultSilentEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4927/xFox_noyau/src/com/aura/base/event/impl/DefaultSilentEvent.java
+END
+DefaultEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/event/impl/DefaultEvent.java
+END
+DefaultObjectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/event/impl/DefaultObjectEvent.java
+END
+PacketManagerDeconnectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svnroot/kroidproject/!svn/ver/4915/xFox_noyau/src/com/aura/base/event/impl/PacketManagerDeconnectionEvent.java
+END

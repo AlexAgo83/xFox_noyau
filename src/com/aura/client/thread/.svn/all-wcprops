@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/kroidproject/!svn/ver/5159/xFox_noyau/src/com/aura/client/thread
+END
+ClientPacketManagerExecutorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/kroidproject/!svn/ver/4926/xFox_noyau/src/com/aura/client/thread/ClientPacketManagerExecutorThread.java
+END
+ClientNetworkPingThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/kroidproject/!svn/ver/5159/xFox_noyau/src/com/aura/client/thread/ClientNetworkPingThread.java
+END

@@ -1,0 +1,52 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/server/manager
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-10T11:05:05.850776Z
+4999
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+ServerDataBaseManager.java
+file
+
+
+
+
+2013-03-21T16:25:12.141694Z
+75ec12c2af52be59a59509e9d640707f
+2013-03-10T11:05:05.850776Z
+4999
+ktrn42
+
+ServerNetworkManager.java
+file
+
+
+
+
+2013-03-21T16:25:14.141425Z
+6a19376e4430e11e04abe71babb399fc
+2013-03-08T02:12:51.226515Z
+4959
+ktrn42
+

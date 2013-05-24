@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/manager/configuration
+END
+ConfigCENode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/4934/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCENode.java
+END
+ConfigCEString.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/kroidproject/!svn/ver/4929/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCEString.java
+END
+ConfigCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCM.java
+END
+AbstractConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/manager/configuration/AbstractConfigurationManager.java
+END
+ConfigCEInteger.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/kroidproject/!svn/ver/4929/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCEInteger.java
+END
+ConfigCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kroidproject/!svn/ver/5157/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCE.java
+END
+ConfigCEBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/kroidproject/!svn/ver/4929/xFox_noyau/src/com/aura/base/manager/configuration/ConfigCEBoolean.java
+END

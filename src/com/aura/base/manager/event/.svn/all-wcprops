@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/manager/event
+END
+AbstractEventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/manager/event/AbstractEventManager.java
+END
+EventCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kroidproject/!svn/ver/5023/xFox_noyau/src/com/aura/base/manager/event/EventCM.java
+END
+EventCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/kroidproject/!svn/ver/4910/xFox_noyau/src/com/aura/base/manager/event/EventCE.java
+END

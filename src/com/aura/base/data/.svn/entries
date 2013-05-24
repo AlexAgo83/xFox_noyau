@@ -1,0 +1,52 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/base/data
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-08T01:37:38.105312Z
+4955
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+AuraData.java
+file
+
+
+
+
+2013-03-21T10:44:00.054650Z
+93f7e719b9ce937fa786b69750484d1e
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+ExempleAuraData.java
+file
+
+
+
+
+2013-03-21T10:44:00.070272Z
+69005bb7b8ffe6716bd9463e89873a16
+2013-03-08T01:37:38.105312Z
+4955
+ktrn42
+

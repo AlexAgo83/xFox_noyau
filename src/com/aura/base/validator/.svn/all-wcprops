@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/validator
+END
+PasswordValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/validator/PasswordValidator.java
+END
+AbstractValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/validator/AbstractValidator.java
+END
+LoginValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/validator/LoginValidator.java
+END

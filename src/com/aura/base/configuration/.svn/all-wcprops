@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration
+END
+MemoryConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/MemoryConfiguration.java
+END
+ConfigurationSerialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/ConfigurationSerialization.java
+END
+YamlConfigurationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/YamlConfigurationOptions.java
+END
+FileConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/FileConfiguration.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/Configuration.java
+END
+YamlConstructor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/YamlConstructor.java
+END
+MemoryConfigurationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/MemoryConfigurationOptions.java
+END
+DelegateDeserialization.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/DelegateDeserialization.java
+END
+YamlRepresenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/YamlRepresenter.java
+END
+PropertiesLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/PropertiesLoader.java
+END
+FileConfigurationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/FileConfigurationOptions.java
+END
+ConfigurationOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/ConfigurationOptions.java
+END
+YamlConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/YamlConfiguration.java
+END
+SerializableAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/SerializableAs.java
+END
+ConfigurationSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/ConfigurationSection.java
+END
+MemorySection.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/MemorySection.java
+END
+InvalidConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/InvalidConfigurationException.java
+END
+ConfigurationSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/configuration/ConfigurationSerializable.java
+END

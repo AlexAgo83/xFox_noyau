@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/kroidproject/!svn/ver/5181/xFox_noyau/src/com/aura/base/thread
+END
+AuraThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/kroidproject/!svn/ver/5181/xFox_noyau/src/com/aura/base/thread/AuraThread.java
+END
+EventDispatchThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kroidproject/!svn/ver/5176/xFox_noyau/src/com/aura/base/thread/EventDispatchThread.java
+END
+AbstractPacketManagerExecutorThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/thread/AbstractPacketManagerExecutorThread.java
+END
+ConsoleReaderThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kroidproject/!svn/ver/4886/xFox_noyau/src/com/aura/base/thread/ConsoleReaderThread.java
+END

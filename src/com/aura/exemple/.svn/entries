@@ -1,0 +1,85 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/exemple
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-12T11:16:07.566917Z
+5023
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+ExempleAuraTableModel.java
+file
+
+
+
+
+2013-03-21T10:43:34.919335Z
+c545ca98fe70ad5246c4d8a7d6b803d8
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+server
+dir
+
+ExempleClientServerGui_AvecPlugin.java
+file
+
+
+
+
+2013-03-21T10:43:34.934956Z
+c7e94bd82488fd1b695dbf75d1eb1ae1
+2013-03-08T11:59:32.758898Z
+4966
+ktrn42
+
+ExempleClientServerGui.java
+file
+
+
+
+
+2013-03-21T10:43:34.934956Z
+540c2fd2fc629afcb655ff2f0cca576d
+2013-03-08T11:59:32.758898Z
+4966
+ktrn42
+
+ExempleAuraGui.java
+file
+
+
+
+
+2013-03-21T10:43:34.950578Z
+b9961a0eb213933f460d9e74fbaef6f7
+2013-03-07T15:24:04.927130Z
+4946
+ktrn42
+
+client
+dir
+
+plugin
+dir
+

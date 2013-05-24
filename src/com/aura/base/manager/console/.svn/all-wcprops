@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/kroidproject/!svn/ver/5156/xFox_noyau/src/com/aura/base/manager/console
+END
+AbstractConsoleManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/kroidproject/!svn/ver/5022/xFox_noyau/src/com/aura/base/manager/console/AbstractConsoleManager.java
+END
+ConsoleCM.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kroidproject/!svn/ver/5156/xFox_noyau/src/com/aura/base/manager/console/ConsoleCM.java
+END
+ConsoleCE.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kroidproject/!svn/ver/5156/xFox_noyau/src/com/aura/base/manager/console/ConsoleCE.java
+END

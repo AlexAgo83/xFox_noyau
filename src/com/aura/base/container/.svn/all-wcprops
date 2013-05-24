@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/kroidproject/!svn/ver/5157/xFox_noyau/src/com/aura/base/container
+END
+AbstractAuraContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/4889/xFox_noyau/src/com/aura/base/container/AbstractAuraContainer.java
+END
+AbstractContainerElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/4889/xFox_noyau/src/com/aura/base/container/AbstractContainerElement.java
+END
+AbstractContainerManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/kroidproject/!svn/ver/5157/xFox_noyau/src/com/aura/base/container/AbstractContainerManager.java
+END

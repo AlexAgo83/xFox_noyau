@@ -1,0 +1,103 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/base
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-21T17:11:31.593970Z
+5190
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+utils
+dir
+
+event
+dir
+
+container
+dir
+
+validator
+dir
+
+TypeSide.java
+file
+
+
+
+
+2013-03-21T10:44:04.413104Z
+ab319e88a63559cf61e451d6f23ba26d
+2013-03-15T21:43:28.197338Z
+5099
+ktrn42
+
+configuration
+dir
+
+packet
+dir
+
+thread
+dir
+
+Aura.java
+file
+
+
+
+
+2013-03-21T17:04:24.339093Z
+e578faf932194a769a32de2e57f509a7
+2013-03-21T17:11:31.593970Z
+5190
+ktrn42
+
+data
+dir
+
+manager
+dir
+
+AbstractAuraPlugin.java
+file
+
+
+
+
+2013-03-21T16:25:40.512880Z
+3762724a54d0a9bb3ef8e0cefa3ad843
+2013-03-12T10:26:07.855733Z
+5022
+ktrn42
+
+TypeLangue.java
+file
+
+
+
+
+2013-03-21T13:15:17.611717Z
+6c79293da7804e1e782e595b326b7e09
+2013-03-21T13:51:25.469293Z
+5176
+ktrn42
+

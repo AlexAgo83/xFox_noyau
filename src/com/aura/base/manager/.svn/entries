@@ -1,0 +1,67 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/base/manager
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-21T16:54:52.181943Z
+5185
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+i18n
+dir
+
+event
+dir
+
+console
+dir
+
+AbstractPacketManager.java
+file
+
+
+
+
+2013-03-21T16:24:43.129968Z
+fdb625eacc6901a5e061a85e4d1c9633
+2013-03-12T12:04:45.053760Z
+5028
+ktrn42
+
+configuration
+dir
+
+packet
+dir
+
+AbstractAuraManager.java
+file
+
+
+
+
+2013-03-21T16:33:12.858327Z
+2874794da24376d4bc7606c657498942
+2013-03-21T16:38:22.796250Z
+5181
+ktrn42
+

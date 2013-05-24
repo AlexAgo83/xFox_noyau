@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/kroidproject/!svn/ver/4924/xFox_noyau/src/com/aura/base/packet/impl
+END
+PacketLoginAttempt.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketLoginAttempt.java
+END
+PacketLoginResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4924/xFox_noyau/src/com/aura/base/packet/impl/PacketLoginResult.java
+END
+PacketLoginCreate.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketLoginCreate.java
+END
+PacketPing.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketPing.java
+END
+PacketBuildRevision.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketBuildRevision.java
+END
+PacketKick.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketKick.java
+END
+TypeLoginResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/kroidproject/!svn/ver/4924/xFox_noyau/src/com/aura/base/packet/impl/TypeLoginResult.java
+END
+PacketPong.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketPong.java
+END
+PacketServerHeartTick.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kroidproject/!svn/ver/4864/xFox_noyau/src/com/aura/base/packet/impl/PacketServerHeartTick.java
+END

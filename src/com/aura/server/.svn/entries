@@ -1,0 +1,73 @@
+8
+
+dir
+5190
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/src/com/aura/server
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-21T17:11:31.593970Z
+5190
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+AuraServer.java
+file
+
+
+
+
+2013-03-21T17:05:30.455804Z
+849cdc89877b986709b3418d5b681c6b
+2013-03-21T17:11:31.593970Z
+5190
+ktrn42
+
+service
+dir
+
+thread
+dir
+
+AuraService.java
+file
+
+
+
+
+2013-03-21T10:43:43.089484Z
+c92cb59c3cfe7fe8b80e868aadea6957
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
+manager
+dir
+
+NetworkStatut.java
+file
+
+
+
+
+2013-03-21T10:43:43.105106Z
+7bb30e83e8cf729a45a25b8cf8a1a1e3
+2013-03-04T10:52:34.625050Z
+4864
+ktrn42
+
