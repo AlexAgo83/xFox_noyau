@@ -1,40 +1,0 @@
-8
-
-dir
-5190
-https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_noyau/ress
-https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
-
-
-
-2013-03-21T16:54:52.181943Z
-5185
-ktrn42
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-7537328a-2daf-46a0-9268-e1fd7e6b2b6c
-
-cfg
-dir
-
-i18n
-dir
-
-log
-dir
-
-db
-dir
-
